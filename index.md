@@ -1,7 +1,7 @@
 ---
-title: oitofelix - Translation&#58; Stallman speech on free software
+title: oitofelix - Translation&#58; Stallman's speech on free software
 description: >
-  The "Stallman speech on free software" is a translation to
+  The "Stallman's speech on free software" is a translation to
   Portuguese I made of an English talk given by Richard M. Stallman in
   2010 about free software and the free software movement.
 tags: translation, speech, Stallman, free software
@@ -9,7 +9,7 @@ license: CC BY-ND 4.0
 layout: oitofelix-homepage
 ---
 <div id="markdown" markdown="1">
-## Translation: Stallman speech on free software
+## Translation: Stallman's speech on free software
 
 This is a translation to Portuguese I made of an English talk given by
 Richard M. Stallman in 2010 about free software and the free software
